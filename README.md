@@ -22,7 +22,7 @@ npm install
 node server.js
 ```
 
-###Frontend Setup
+Frontend Setup
 
 ```bash
 cd frontend
